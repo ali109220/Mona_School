@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="en">
+  <texts>
+    <text key="NextLessonInfoEmailTitle">Next lesson info email title</text>
+    <text key="NextLessonInfoEmailSubject">Next Lesson Info Email Subject</text>
+    <text key="Dear">Dear</text>
+    <text key="Hours">Hours</text>
+    <text key="LessonDate">Lesson Date</text>
+    <text key="PleaseBeOnTime">Please be on time</text>
+    <text key="InCaseOfAnyProblemDoNotHesitateToContactUsAt">In Case Of Any Problem Do Not Hesitate To Contact Us At</text>
+    <text key="RemainingMoneyInfoEmailTitle">Remaining Money Info Email Title</text>
+    <text key="RemainingMoneyInfoEmailSubject">>Remaining Money Info Email Subject</text>
+    <text key="TheRemainigMoneyOfyourCourseInMonaSchoolIs"> The Remainig Money Of your Course In Mona School Is</text>
+    <text key="PleasePayYourRemainingFees">Please Pay Your Remaining Fees</text>
+    <text key="AddClient">Add Client</text>
+    
+    <text key="FullName">FullName</text>
+    <text key="Required">Required</text>
+    <text key="Phone">Phone</text>
+    <text key="Email">Email</text>
+    <text key="BirthDate">Birth Date</text>
+    <text key="Gender">Gender</text>
+    
+    <text key="Address">Address</text>
+    <text key="Country">Country</text>
+    <text key="City">City</text>
+    <text key="PostalCode">Postal Code</text>
+    <text key="StartCourse">Start Course</text>
+
+    <text key="InCharge">In Charge</text>
+    <text key="Note">Note</text>
+    <text key="Cancel">Cancel</text>
+    <text key="AddHasBeenSuccessfully">Add Has Been Successfully</text>
+    <text key="UpdateHasBeenSuccessfully">Update Has Been Successfully</text>
+    <text key="Add">Add</text>
+    
+    <text key="LessonPeriod">Lesson Period</text>
+    <text key="LessonDate">Lesson Date</text>
+    <text key="LessonTime">Lesson Time</text>
+    <text key="Actions">Actions</text>
+    <text key="Delete">Delete</text>
+
+    <text key="Edit">Edit</text>
+    <text key="Number">Number</text>
+    <text key="Cancel">Cancel</text>
+    <text key="Finished">Finished</text>
+    <text key="Save">Save</text>
+
+    <text key="NotStarted">Not Started</text>
+    <text key="Active">Active</text>
+    <text key="Canceled">Canceled</text>
+    <text key="Finished">Finished</text>
+    <text key="Select">Select</text>
+    <text key="After">After</text>
+  
+    <text key="SettingsNav">Settings</text>
+    <text key="SecurityNav">Security</text>
+    <text key="UsersNav">Users</text>
+    <text key="TypeOfPacketsNav">Type Of Packets</text>
+    <text key="TypeOfPackets">Type Of Packets</text>
+    <text key="TypeOfExamsNav">Type Of Exams</text>
+    <text key="TypeOfExams">Type Of Exams</text>
+    <text key="CurrencyNav">Currencies</text>
+    <text key="Currency">Currencies</text>
+    <text key="PeriodBeforeSendEmailNav">Period Before Send Emails</text>
+    <text key="PeriodBeforeSendEmail">Period Before Send Emails</text>
+    <text key="MainComponentsNav">Main Components</text>
+    <text key="ClientsNav">Clients</text>
+
+<text key="Logout">Logout</text>
+    <text key="Mona">Mona</text>
+    <text key="DrivingSchool">driving school</text>
+    <text key="Clients">Clients</text>
+    <text key="Search">Search</text>
+    <text key="TypeOfPacket">Packet Type</text>
+    <text key="ExamType">Exam Type</text>
+    <text key="Name">Name</text>
+  
+<text key="NextLesson">Next Lesson</text>
+    <text key="MoneyRemaining">Money Remaining</text>
+    <text key="SendEmailNextLesson">Send Email Next Lesson</text>
+    <text key="SendEmailRemainingMoney">Send Email Remaining Money</text>
+    <text key="Started">Started</text>
+    <text key="Days">Days</text>
+    <text key="EmailSentHasBeenSuccessfully">Email Sent Has Been Successfully</text>
+    <text key="AreYouSureDeleteThis">Are You Sure Delete This?</text>
+    <text key="DeleteHasBeenSuccessfully">Delete Has Been Successfully</text>
+    <text key="No">No</text>
+    <text key="Yes">Yes</text>
+    <text key="InformationTab">Information</text>
+    <text key="CoursesTab">Courses</text>
+    <text key="UpdateHasBeenSuccessfully">Update Has Been Successfully</text>
+    
+  <text key="Date">Date</text>
+  <text key="Time">Time</text>
+  <text key="Amount">Amount</text>
+    <text key="UpdateSuccessfully">Update Successfully</text>
+    <text key="HandOverBy">Hand Over By</text>
+    <text key="SetStatusAsCanceledHasBeenSuccessfully">Set status as Canceled Has Been Successfully</text>
+    <text key="Update">Update</text>
+    <text key="PaymentsTab">Payments</text>
+    <text key="LessonsTab">Lessons</text>
+    <text key="EditCourseModalTitle">Edit Course</text>
+    <text key="CourseDetails">Course Details</text>
+    <text key="PeroidBeforeSendEmailCol">Peroid Before Email</text>
+    <text key="LessonPeriod">Lesson Period</text>
+    <text key="TotalAmount">TotalA mount</text>
+    <text key="PeroidBeforeSendEmailField">Peroid Before Email</text>
+    
+  <text key="Username">Username</text>
+  <text key="IsAdmin">Is Admin</text>
+  <text key="LastLogin">Last Login</text>
+    <text key="AddUserModal">Add User</text>
+    <text key="EditUserModal">Edit User</text>
+    
+    <text key="AddExamTypeModal">Add Exam Type</text>
+    <text key="EditUserModal">Edit Exam Type</text>
+    
+    <text key="AddPacketTypeModal">Add Packet Type</text>
+    <text key="EditPacketTypeModal">Edit Packet Type</text>
+    
+    <text key="AddPeriodBeforeSendEmailModal">Add Period Before Send Email</text>
+    <text key="EditPeriodBeforeSendEmailModal">Edit Period Before Send Email</text>
+    
+    <text key="AddCurrencyModal">Add Currency</text>
+    <text key="EditCurrencyModal">Edit Currency</text>
+    
+    <text key="EnglishName">English Name</text>
+    <text key="ForeignName">Foreign Name</text>
+    <text key="CountOfLessons">Lessons Count</text>
+    <text key="Cost">Cost</text>
+    <text key="Symbol">Symbol</text>
+    <text key="IsActive">Is Active</text>
+    <text key="MakeThisCurrencyIsActiveSuccessfully">Make this currency is active successfully</text>
+    
+  
+  </texts>
+</localizationDictionary>
+
+ 

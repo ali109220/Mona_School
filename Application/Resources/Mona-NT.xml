@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="nl">
+  <texts>
+    <text key="NextLessonInfoEmailTitle">E-mail met informatie over de volgende les</text>
+    <text key="NextLessonInfoEmailSubject">E-mail met informatie over de volgende les</text>
+    <text key="YouHaveALessonAtMonaSchoolAfter">Je hebt een les Monarijschool achteraf</text>
+    
+    <text key="Dear">Beste</text>
+    <text key="Hours">Uren</text>
+    <text key="LessonDate">Lesdatum</text>
+    <text key="PleaseBeOnTime">Wees alsjeblieft op tijd</text>
+    <text key="InCaseOfAnyProblemDoNotHesitateToContactUsAt">In geval van problemen, aarzel dan niet om contact met ons op te nemen</text>
+    <text key="RemainingMoneyInfoEmailTitle">Resterende geldinformatie e-mail</text>
+    <text key="RemainingMoneyInfoEmailSubject">>Resterend geld Info E-mail</text>
+    <text key="TheRemainigMoneyOfyourCourseInMonaSchoolIs"> Het resterende geld van uw cursus in Mona School is</text>
+    <text key="PleasePayYourRemainingFees">Betaal alstublieft uw resterende kosten</text>
+    <text key="AddClient">Client toevoegen</text>
+    <text key="YouHavePaid">U hebt betaald</text>
+    <text key="EurosAccordingToOurAdministration">Euro's volgens onze administratie.</text>
+    <text key="Euros">Euro's.</text>
+    <text key="UpdatingPaymentSubject"> bijwerken</text>
+    <text key="UpdatingPaymentTitle">Betaling bijwerken</text>
+    <text key="YouHavePaidOnUpdating">Werk uw laatste betalingen bij tot</text>
+    <text key="AddingPaymentSubject">Betaling Toevoegen</text>
+    <text key="AddingPaymentTitle">Betaling Toevoegen</text>
+    <text key="CourseDate">cursus datum</text>
+    <text key="DuplicateUsername">Dubbele gebruikersnaam</text>
+    <text key="ErrorInChangingPassword">Fout bij het wijzigen van het wachtwoord</text>
+    <text key="EmailValidation">E-mail is niet geldig</text>
+    <text key="ThankYouForYourInterestInOurDrivingSchool">Bedankt voor uw interesse in onze rijschool.</text>
+    <text key="WithBestRegards">Met vriendelijke groeten,</text>
+    <text key="FullName">Volledige naam</text>
+    <text key="Required">Verplicht</text>
+    <text key="Phone">Telefoon</text>
+    <text key="Email">Email</text>
+    <text key="BirthDate">Geboortedatum</text>
+    <text key="Gender">Geslacht</text>
+
+    <text key="Address">Adres</text>
+    <text key="Country">Land</text>
+    <text key="City">Staad</text>
+    <text key="PostalCode">Postcode</text>
+    <text key="StartCourse">Start cursus</text>
+
+    <text key="InCharge">De leiding</text>
+    <text key="Note">Opmerking</text>
+    <text key="Cancel">Annuleer</text>
+    <text key="AddHasBeenSuccessfully">Toevoegen is succesvol verlopen</text>
+    <text key="UpdateHasBeenSuccessfully">Bijwerken is succesvol verlopen</text>
+    <text key="Add">Toevoegen</text>
+
+    <text key="LessonPeriod">Lesperiode</text>
+    <text key="LessonDate">Lesdatum</text>
+    <text key="LessonTime">Lestijd</text>
+    <text key="Actions">Acties</text>
+    <text key="Delete">Verwijderen</text>
+
+    <text key="Edit">Bewerk</text>
+    <text key="Number">Nummer</text>
+    <text key="Cancel">Annuleer</text>
+    <text key="Finished">Af zijn</text>
+    <text key="Save">Opslaan</text>
+
+    <text key="NotStarted">Niet begonnen</text>
+    <text key="Active">Actief</text>
+    <text key="Canceled">Geannuleerd</text>
+    <text key="Finished">Af zijn</text>
+    <text key="Select">Selecteer</text>
+    <text key="After">Na</text>
+
+    <text key="SettingsNav">Instellingen</text>
+    <text key="SecurityNav">Beveiliging</text>
+    <text key="UsersNav">Gebruikers</text>
+    <text key="TypeOfPacketsNav">Type pakketten</text>
+    <text key="TypeOfPackets">Type pakketten</text>
+    <text key="TypeOfExamsNav">Type examens</text>
+    <text key="TypeOfExams">Type examens</text>
+    <text key="CurrencyNav">Valuta's</text>
+    <text key="Currency">Valuta's</text>
+    <text key="PeriodBeforeSendEmailNav">Periode voordat e-mails worden verzonden</text>
+    <text key="PeriodBeforeSendEmail">Periode voordat e-mails worden verzonden</text>
+    <text key="MainComponentsNav">Hoofd onderdelen</text>
+    <text key="ClientsNav">Cliënten</text>
+
+    <text key="Logout">Uitloggen</text>
+    <text key="Mona">Mona</text>
+    <text key="DrivingSchool">rijschool</text>
+    <text key="Clients">Cliënten</text>
+    <text key="Search">Zoeken</text>
+    <text key="TypeOfPacket">Type pakketten</text>
+    <text key="ExamType">Type examens</text>
+    <text key="Name">Naam</text>
+    <text key="UserIsReferncedToAnotherTable">De gebruiker wordt verwezen naar een andere tabel</text>
+    <text key="NextLesson">Volgende les</text>
+    <text key="MoneyRemaining">Resterend geld</text>
+    <text key="SendEmailNextLesson">E-mail verzenden</text>
+    <text key="SendEmailRemainingMoney">E-mail verzenden</text>
+    <text key="Started">Begonnen</text>
+    <text key="Days">Dagen</text>
+    <text key="EmailSentHasBeenSuccessfully">E-mail verzonden is succesvol</text>
+    <text key="AreYouSureDeleteThis">Weet je het zeker, verwijder dit?</text>
+    <text key="DeleteHasBeenSuccessfully">Verwijderen is met succes uitgevoerd</text>
+    <text key="No">Nee</text>
+    <text key="Yes">Ja</text>
+    <text key="InformationTab">Informatie</text>
+    <text key="CoursesTab">Cursussen</text>
+    <text key="UpdateHasBeenSuccessfully">Bijwerken is succesvol verlopen</text>
+
+    <text key="Date">Datum</text>
+    <text key="Time">Tijd</text>
+    <text key="Amount">Bedrag</text>
+    <text key="UpdateSuccessfully">Bijwerken succesvol</text>
+    <text key="HandOverBy">Overhandigen door</text>
+    <text key="SetStatusAsCanceledHasBeenSuccessfully">Stel de status in als Geannuleerd Is succesvol</text>
+    <text key="Update">Bijwerken</text>
+    <text key="PaymentsTab">Betalingen</text>
+    <text key="LessonsTab">Lessen</text>
+    <text key="EditCourseModalTitle">Bewerk cursus</text>
+    <text key="CourseDetails">cursus details</text>
+    <text key="PeroidBeforeSendEmailCol">periode voor e-mai</text>
+    <text key="LessonPeriod">Les periode</text>
+    <text key="TotalAmount">Totaalbedrag</text>
+    <text key="PeroidBeforeSendEmailField">periode voor e-mail</text>
+
+    <text key="Username">Gebruikersnaam</text>
+    <text key="IsAdmin">Als Admin</text>
+    <text key="LastLogin">Laatste Inloggen</text>
+    <text key="AddUserModal">Voeg gebruiker toe</text>
+    <text key="EditUserModal">bewerk gebruiker</text>
+
+    <text key="AddExamTypeModal">Voeg examentype toe</text>
+    <text key="EditUserModal">bewerk examentype</text>
+
+    <text key="AddPacketTypeModal">Voeg Pakkettype toe</text>
+    <text key="EditPacketTypeModal">bewerk Pakkettype</text>
+
+    <text key="AddPeriodBeforeSendEmailModal">Voeg een periode toe voordat u een e-mail verzendt</text>
+    <text key="EditPeriodBeforeSendEmailModal">Bewerk periode voordat e-mail wordt verzonden</text>
+
+    <text key="AddCurrencyModal">Voeg Valuta toe</text>
+    <text key="EditCurrencyModal">bewerk Valuta</text>
+
+    <text key="EnglishName">Engels Naam</text>
+    <text key="ForeignName">Nederland Naam</text>
+    <text key="CountOfLessons">Lessen Tellen</text>
+    <text key="Cost">Kosten</text>
+    <text key="Symbol">Symbool</text>
+    <text key="IsActive">Is Actief</text>
+    <text key="MakeThisCurrencyIsActiveSuccessfully">Zorg ervoor dat deze valuta succesvol is geactiveerd</text>
+
+    <text key="SendingEmailHasBeenSuccessfully">Het verzenden van e-mail is succesvol verlopen</text>
+    <text key="SetStatusAsFinishedHasBeenSuccessfully">Stel de status in als voltooid is succesvol</text>
+    <text key="AreYouSureFinishThis">Weet je het zeker? maak dit af</text>
+    <text key="AreYouSureCancelThis">Weet je het zeker? Annuleer dit</text>
+    <text key="HoursTaked">Uren genomen</text>
+    <text key="HundredToTwintyMinutes">HundredToTwintyMinutes</text>
+    <text key="HundredToFiveMinutes">HundredToFiveMinutes</text>
+    <text key="NineteenMinutes">Negentien minuten</text>
+    <text key="SeventeenToFiveMinutes">SeventeenToFiveMinutes</text>
+    <text key="SixteenMinutes">SixteenMinutes</text>
+    <text key="FourtyToFourMinutes">FourtyToFourMinutes</text>
+    <text key="ThirteenMinutes">ThirteenMinutes</text>
+    <text key="ThirteenMinutes">FifteenMinutes</text>
+    <text key="MonaSchool">MonaRijSchool</text>
+    <text key="ChangePassword">Wachtwoord wijzigen</text>
+    <text key="ResetPassword">Wachtwoord opnieuw instellen</text>
+    <text key="OldPassword">Oud Wachtwoord</text>
+    <text key="ConfirmPassword">Bevestig wachtwoord</text>
+    <text key="Change">Verandering</text>
+    <text key="OldPasswordIsNotCorrect">Het oude wachtwoord is niet correct</text>
+    <text key="NewPassword">Nieuw Wachtwoord</text>
+    <text key="ChangePasswordSuccessfully">Wachtwoord succesvol wijzigen</text>
+    <text key="NewPasswordDoesNotEqualConfirmPassword">Nieuw wachtwoord is niet gelijk aan wachtwoord bevestigen</text>
+  </texts>
+</localizationDictionary>

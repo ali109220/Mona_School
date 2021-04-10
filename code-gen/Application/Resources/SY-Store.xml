@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="en">
+  <texts>
+    <text key="RedeemYourSoftwareOrGamefromSYSTORECOM">Redeem your Software or Game from SY-Store</text>
+    <text key="FAQ">FAQ</text>
+    <text key="WelcomeToSYSTORECOMStore">Welcome To SY-STORE.COM Store</text>
+    <text key="PleaseEnterTheRedeemCodeAndAllInformationBelow">Please enter the Redeem Code and all information below</text>
+    <text key="FirstName">First Name</text>
+    <text key="Note">Note!:</text>
+    <text key="ChangeLanguage">العربية</text>
+    <text key="TheEmailisrequired">The Email is required!</text>
+    <text key="TheLastNameisrequired">The Last Name is required!</text>
+    <text key="TheFirstNameisrequired">The First Name is required!</text>
+    <text key="TheCPasswordisrequired">The Confirm Password is required!</text>
+    <text key="ThePasswordlengthmustgreaterthan8characters">The Password length must greater than 8 characters!</text>
+    <text key="ThePasswordisrequired">The Password is required!</text>
+    <text key="ThePhoneisrequired">The Phone is required!</text>
+    <text key="TheCityisrequired">The City is required!</text>
+    <text key="TheEmailisnotvalid">The Email is not valid!</text>
+    <text key="ThankyouActivationwassuccessfull">Thank you! Activation was successfull</text>
+    <text key="Youwillrecievethedownloadlinkandtheactivationcodewithinuptohoursmaximumtoyouremail">You will recieve the download link and the activation code within 1 up to 6 hours maximum to your email.</text>
+    
+    <text key="Pleasemakesureoftheemailyouwrotebecuaseimportantproductinformationsuchasthelicencekeywillbesenttoyouremail">Please make sure of the e-mail you wrote, becuase important product information such as the licence key will be sent to your email.</text>
+    <text key="EnterYourRedemptionCode">Enter your redemption code</text>
+    <text key="EnterYourInformation">Enter Your Information</text>
+    <text key="TheOldPasswordisrequired">The Old Password is required!</text>
+    <text key="TheNewPasswordisrequired">The New Password is required!</text>
+    <text key="WelcomeBack">Welcome Back</text>
+    <text key="FirstName">First Name</text>
+    <text key="LastName">Last Name</text>
+    <text key="Email">Email</text>
+    <text key="Phone">Phone</text>
+    <text key="Country">Country</text>
+    <text key="City">City</text>
+    <text key="YourProfile">Your Profile</text>
+    <text key="SignOut">Sign Out</text>
+    <text key="SignIn">Sign In</text>
+    <text key="Sign">Sign</text>
+    <text key="Submit">Submit</text>
+    <text key="ForgetPassword">Forget Password</text>
+    <text key="ResetPassword">Reset Password</text>
+    <text key="GetKey">Get Key</text>
+    <text key="EditYourProfile">Edit Your Profile</text>
+    <text key="EditProfile">Edit Profile</text>
+    <text key="ChangePassword">Change Password</text>
+    <text key="NumberOfActivations">Number Of Activations</text>
+    <text key="Update">Update</text>
+    <text key="Type">Type</text>
+    <text key="RedeemCode">Redeem Code</text>
+    <text key="ID">ID</text>
+    <text key="LicenceType">Licence Type</text>
+    <text key="ActivationDate">Activation Date</text>
+    <text key="Page">Page</text>
+    <text key="BlockedCode">The code has blocked, please contact the technical support via Support@sy-store.com</text>
+    
+    <text key="Password">Password</text>
+    <text key="Confirm_Password">Confirm Password</text>
+    <text key="NewPassword">New Password</text>
+    <text key="OldPassword">Old Password</text>
+    <text key="ConfirmPassword">Confirm Password</text>
+    <text key="Activationhasbeensuccessfully">Activation has been successfully</text>
+    <text key="CheckYouEmailandcopythecodewehavesentandputinthebelowinput">Check You Email and copy the code we have sent and put in the below input</text>
+    <text key="EnterCodeHere">Enter Code Here</text>
+    <text key="Youwillreceivethedownloadlinkandtheactivationcodewithin1upto6hoursmaximumtoyouremail">You will receive the download link and the activation code within 1 up to 6 hours maximum to your email.</text>
+    <text key="Brand">Brand</text>
+    <text key="ExistedEmail">Email Has Used Before, try with other email.</text>
+    <text key="LicenceType">Licence Type</text>
+    <text key="Platform">Platform</text>
+    <text key="HowToActivate">How To Activate</text>
+    <text key="Description">Description</text>
+  </texts>
+</localizationDictionary>
